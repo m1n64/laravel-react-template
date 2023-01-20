@@ -1,6 +1,6 @@
 ## My Laravel+React Template
 
-Using: PHP 8.0+, Laravel 9.45, React.js 18, Inertia.js, tailwind.css, Font Awesome 6
+Using: PHP 8.1+, Laravel 9.45, React.js 18, Inertia.js, tailwind.css, Font Awesome 6
 
 Backend libraries: [Snowflake](https://github.com/godruoyi/php-snowflake), [predis](https://github.com/predis/predis),  [Laravel-Swagger](https://github.com/DarkaOnLine/L5-Swagger), [Laravel-Actions](https://laravelactions.com/), [plain-to-class](https://github.com/yzen-dev/plain-to-class) (make DTO model)
 
