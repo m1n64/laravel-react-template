@@ -1,7 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "m1n64/laravel9-react",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "version": "1.0.0",
+    "description": "The Laravel + React 18 template.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
