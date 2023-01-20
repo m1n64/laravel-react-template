@@ -2,6 +2,17 @@
 
 Using: PHP 8.1+, Laravel 9.45, React.js 18, Inertia.js, tailwind.css, Font Awesome 6
 
+## Instal
+```
+composer create-project m1n64/laravel9-react my-best-project
+```
+```
+cd my-best-project
+```
+```
+./install.sh
+```
+
 Backend libraries: [Snowflake](https://github.com/godruoyi/php-snowflake), [predis](https://github.com/predis/predis),  [Laravel-Swagger](https://github.com/DarkaOnLine/L5-Swagger), [Laravel-Actions](https://laravelactions.com/), [plain-to-class](https://github.com/yzen-dev/plain-to-class) (make DTO model)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
