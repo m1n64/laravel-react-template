@@ -1,7 +1,7 @@
 {
     "name": "m1n64/laravel9-react",
     "type": "project",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "The Laravel + React 18 template.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
